@@ -12,7 +12,7 @@ A ROS Kinetic-based autonomous navigation project for TurtleBot using laser sens
 
 The Stage simulator runs the Autolab world with the robot, target, and obstacles. Below is the environment layout used in the project.
 
-![Autolab simulation environment](catkin_ws/src/a2_world/world/autolab.png)
+![Autolab simulation environment](Run%20World%20Package.png)
 
 *Autolab world: simulation environment with robot, target (red square), and obstacles.*
 
