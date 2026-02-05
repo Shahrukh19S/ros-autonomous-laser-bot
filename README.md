@@ -16,10 +16,6 @@ The Stage simulator runs the Autolab world with the robot, target, and obstacles
 
 *Autolab world: simulation environment with robot, target (red square), and obstacles.*
 
-### Run World Package Demo
-
-📹 **[Setup World Package](Run%20World%20Package.png)** — Walkthrough of setting up and launching the world package and simulation.
-
 ---
 
 ## 🎯 Project Overview
