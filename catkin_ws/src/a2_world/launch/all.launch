@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find a2_world)/launch/world.launch"/>
+    <include file="$(find a2_world)/launch/teleop.launch"/>
+</launch>

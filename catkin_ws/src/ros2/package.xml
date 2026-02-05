@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros2</name>
+  <version>1.0.0</version>
+  <description>ROS navigation controllers package for ROS Laser Bot. Contains three smooth controller implementations (SmoothController1, SmoothController2, SmoothController1TF) and the go-to-goal navigation script.</description>
+
+  <maintainer email="maintainer@example.com">ROS Laser Bot Maintainers</maintainer>
+  <license>MIT</license>
+
+  <url type="repository">https://github.com/Shahrukh19S/ros-autonomous-laser-bot</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>rospy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>tf</depend>
+  <depend>sensor_msgs</depend>
+
+  <export>
+  </export>
+</package>

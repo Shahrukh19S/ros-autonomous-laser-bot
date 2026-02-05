@@ -1,0 +1,58 @@
+# ROS/Catkin specific
+devel/
+build/
+install/
+logs/
+.catkin_workspace
+.rosinstall
+.rosinstall.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+._*
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Compiled files
+*.o
+*.a
+*.lib
+*.dll
+*.exe
+
+# MacOS specific (from project)
+__MACOSX/
+
+# Build artifacts
+*.cmake
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ROS bag files (uncomment if you don't want to track bag files)
+# *.bag
+
+# Documentation builds
+docs/_build/
